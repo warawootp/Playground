@@ -1,7 +1,7 @@
 {
-    "name": "crm/php-global",
+    "name": "mycrm/php-global",
     "description": "This is a test project",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Warawoot Pacharoen",
