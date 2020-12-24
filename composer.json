@@ -1,0 +1,15 @@
+{
+    "name": "crm/php-global",
+    "description": "This is a test project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Warawoot Pacharoen",
+            "email": "warawoot.pacharoen@dx1app.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
