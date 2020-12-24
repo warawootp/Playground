@@ -2,6 +2,7 @@
     "name": "mycrm/php-global",
     "description": "This is a test project",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Warawoot Pacharoen",
@@ -11,5 +12,7 @@
     ],
     "require": {
         "monolog/monolog": "1.0.*"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
